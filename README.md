@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gregagy
+- 👀 I’m interested in Web3 projects and currently improving my skills around web3 technologies
+- 💞️ I’m looking to collaborate on dapp developments
+- 📫 you can reach me @ gregoire at agytech dot co
